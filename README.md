@@ -34,5 +34,7 @@ An interactive sales analysis dashboard built using Microsoft Power BI to explor
 3. If prompted, update the dataset source path to the location of the downloaded CSV file.
 4. Explore the dashboard using the available filters.
 
-Anshika Ajay Gupta
+## Dashboard Preview
+
+![Supermarket Sales Dashboard](dashboard.png)
 
