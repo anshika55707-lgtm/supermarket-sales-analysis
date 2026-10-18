@@ -36,5 +36,5 @@ An interactive sales analysis dashboard built using Microsoft Power BI to explor
 
 ## Dashboard Preview
 
-![Supermarket Sales Dashboard](dashboard.png)
+![Supermarket Sales Dashboard](dashboard.png) 
 
